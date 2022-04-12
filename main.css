@@ -1,3 +1,28 @@
 body {
-  background-color: black;
+  background: url(resume\ image.webp);
+  background-size: cover;
+  
+}
+
+#most-recent-job {
+  background-color: lightblue;
+  font-family: cursive;
+}
+
+#other-job {
+  background-color: darkblue;
+  font-family: cursive;
+}
+
+#other-other-job {
+  background-color: tomato;
+  font-family: 'Grape Nuts', cursive;
+}
+
+h1 {
+  height: 30 px;
+}
+
+section {
+color: white
 }
